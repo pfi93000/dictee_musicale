@@ -11,7 +11,7 @@ Ce logiciel est gratuit, et compatible Windows, macOS et Raspberry PI.<br/>
 Le fichier dictee_rythme.rb est téléchargeable à partir de ce dépôt.<br/>
 Il est lisible par le logiciel Sonic Pi.<br/>
 
-La dictée commence toujours par 4 temps, et suivi de 6 "blocs" à trouver, puis fini par 2 temps.<br/>
+La dictée commence toujours par 4 temps, et suivi de 6 "blocs" à trouver, puis finit par 2 temps.<br/>
 Les 4 premières notes sont des do (dans la portée).<br/>
 Les notes à trouver sont des gammes de do (en dessous de la portée) à do (dans la portée), puis redescendent à do (en dessous de la portée). En cas de soupir, une note est non jouée.<br/>
 Les 2 denières sont des do (dans la portée).<br/>
