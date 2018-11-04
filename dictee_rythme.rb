@@ -140,7 +140,7 @@ end
     play 60, attack: 1, sustain: 10, release: 1, amp: 4
     sleep 12 # 12 = 1 temps
   end
-  temps
+  debut
 end
 
 
