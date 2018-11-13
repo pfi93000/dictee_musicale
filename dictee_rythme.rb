@@ -108,7 +108,7 @@ else
     index = index + 1                                              ## note suivante
     sleep 8                                                        ## temps de pause d'une noire
   end
-  define :croche_ointee_debut do
+  define :croche_pointee_debut do
     play notes[index], attack: 1, sustain: 4, release: 1, amp: 4   ## croche pointée
     index = index + 1                                              ## note suivante
     sleep 6                                                        ## temps de pause d'une croche pointée
